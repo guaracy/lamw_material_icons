@@ -14,3 +14,8 @@ Deverá funcionar mais ou menos assim:
 
 ![](/assets/material_icons.gif)
 
+Copiar e colar funcionando no Lazarus. Para substituir a imagem é melhor limpar antes de colar a nova, Com outros programas como o Gimp, perde a transparência na hora de colar e fica apenas um bloco colorido. Como não é a finalidade principal, fica assim mesmo.
+
+![](/assets/material-lazarus.gif)
+
+
