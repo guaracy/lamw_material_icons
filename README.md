@@ -10,4 +10,7 @@ Resolvi efetuar algumas alterações para que funcione no Lazarus também.
 O botão **copy** irá copiar todos os ícones selecionados para a pasta destino.
 O botão **Clipbrd** copia o ícone selecionado para o clipboard permitindo a inclusão em um determinado componente (botão, imagem, etc.) sem a necessidade de copiar para uma pasta.
 
+Deverá funcionar mais ou menos assim:
+
+![](/assets/material_icons.gif)
 
